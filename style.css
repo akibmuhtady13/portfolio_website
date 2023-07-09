@@ -93,3 +93,13 @@ margin: 0px auto;}
 .info-title{
     color: #757575;
 }
+
+.section-title{
+    text-align: center;
+}
+
+.section-description{
+    text-align: center;
+    color: #757575;
+    padding: 30px 150px;
+}
